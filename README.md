@@ -1,42 +1,39 @@
-# Evolution IT Barbershop — Homepage Starter
 
-A responsive Flask homepage starter for Evolution IT Barbershop.
+# Evolution IT Barbershop
 
-## Run locally
+A modern, responsive website for Evolution IT Barbershop.
 
-1. Install Python 3 if it is not already installed.
-2. Open a terminal in this project folder.
-3. Create a virtual environment (recommended):
+## Features
+- Home page
+- Services page
+- Products page
+- About page
+- Contact page
+- Booking page
 
-   ```bash
-   python -m venv venv
-   ```
+## Technologies
+- Python
+- Flask
+- HTML
+- CSS
 
-4. Activate it:
+## Run Locally
 
-   **Windows**
-   ```bash
-   venv\Scripts\activate
-   ```
-
-   **macOS/Linux**
-   ```bash
-   source venv/bin/activate
-   ```
-
-5. Install Flask:
+1. Install Python.
+2. Install the required packages:
 
    ```bash
    pip install -r requirements.txt
    ```
 
-6. Start the website:
+3. Start the application:
 
    ```bash
    python app.py
    ```
 
-7. Open `http://127.0.0.1:5000` in your browser.
+4. Open the local address shown in your terminal.
+
 
 ## Before publishing
 
@@ -45,3 +42,7 @@ A responsive Flask homepage starter for Evolution IT Barbershop.
 - Confirm the phone number and social media links.
 - The receptionist preview is only a design mock-up. It does not yet create bookings or connect to Google Calendar/Sheets.
 - This starter uses external placeholder images and Google Fonts, so those need an internet connection.
+=======
+# evolution-it-barbershop
+Professional website and virtual booking receptionist for Evolution IT Barbershop.
+
